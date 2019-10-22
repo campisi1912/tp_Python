@@ -2,3 +2,29 @@ Juan pablo budrovich.
 Leonardo Aldo Quadraccia.
 Anselmo Javier Darrain.
 Stefano Sanchez.
+
+Git es un software de control de versiones. Se usa para mejorar la eficiencia y la confiabilidad 
+en el mantenimiento de codigo fuente, para llevar el registro de cambios en computadora y 
+coordinar el trabajo de varias personas sobre archivos compartidos.
+
+Git hub es el sitio que aloja proyectos que usan el sistema de control de versiones git.
+
+gitlab es un sitio similar a github que ademas ofrece algunas funciones mas.
+
+GitHub repositorios, gratis, privados e ilimitados pero con un maximo de 3 colaboradores, 
+	hasta 1 gb y cada archivo no puede superar los 100mb.
+GitLab Repositorios, gratis, privados ilimitados pero sin limites de colaboradores. 
+	hasta 10gb. 
+
+Los datos los pueden usar las personas que tengan una cuenta en el sitio y que formen 
+parte de un proyecto, cuando este es privado. En el caso de un proyecto publico cualquiera puede participar.
+
+Colocaria pequeños proyectos en github o lo usaria para aprender y proyectos mas grandes 
+en gitlab siempre aprovechando la ventaja de gitlab en la version gratuita.
+
+Los principales comandos son:
+
+Init para iniciar el repo.
+add para agregar archivos.
+commit para guardar el cambio.
+push para subir el codigo.
